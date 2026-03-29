@@ -52,7 +52,7 @@ npm install git-heatmap
 ### Manual installation
 
 ```bash
-git clone https://github.com/yourusername/git-heatmap.git
+git clone https://github.com/heiyouhu/git-heatmap.git
 cd git-heatmap
 npm install
 ```

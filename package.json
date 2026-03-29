@@ -17,8 +17,16 @@
     "commits",
     "terminal"
   ],
-  "author": "",
+  "author": "heiyouhu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heiyouhu/git-heatmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heiyouhu/git-heatmap/issues"
+  },
+  "homepage": "https://github.com/heiyouhu/git-heatmap",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^12.0.0",
