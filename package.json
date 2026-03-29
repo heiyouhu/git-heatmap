@@ -1,0 +1,30 @@
+{
+  "name": "git-heatmap",
+  "version": "1.0.0",
+  "description": "A CLI tool that converts Git repository commit history into a terminal heatmap, similar to GitHub's contribution graph",
+  "main": "index.js",
+  "bin": {
+    "git-heatmap": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "git",
+    "heatmap",
+    "cli",
+    "contribution",
+    "commits",
+    "terminal"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^12.0.0",
+    "simple-git": "^3.22.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
